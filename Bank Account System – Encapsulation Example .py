@@ -1,4 +1,4 @@
-Bank Account System – Encapsulation Example 
+#Bank Account System – Encapsulation Example 
 class bank:
     def __init__(self):
         self.__pin=12345
